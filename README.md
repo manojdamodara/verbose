@@ -1,0 +1,2 @@
+# verbose
+just another repository
